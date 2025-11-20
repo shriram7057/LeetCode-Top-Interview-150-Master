@@ -26,3 +26,17 @@ The goal of this repository is to provide high-quality reference solutions for c
      ┣ graphs/
      ┣ trees/
      ┗ ... etc.
+     ---    
+     ---
+     ## 🔗 Connect With Me
+   
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shriram-lahane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/shriram_7057" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:shriramlahane7057@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
