@@ -1,42 +1,74 @@
 # LeetCode-Top-Interview-150-Master
-<p align="center"> <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="220"> </p> <p align="center"> <b>🔥 150/150 Challenges Completed — Fully Accepted Python Solutions</b><br> Clean • Optimized • Interview-Ready </p>
-🏆 Overview
 
-This repository contains all Python solutions for the LeetCode Top Interview 150 challenge.
+<p align="center">
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="220">
+</p>
+
+<p align="center">
+  <b>🔥 150/150 Challenges Completed — Fully Accepted Python Solutions</b><br>
+  Clean • Optimized • Interview-Ready
+</p>
+
+---
+
+## 🏆 Overview
+
+This repository contains **fully accepted Python solutions** for the **LeetCode Top Interview 150** challenge.  
 Each solution is:
 
-✅ Pythonic
-✅ Efficient
-✅ Accepted by LeetCode
-✅ Clean & Easy to Understand
+- ✅ Pythonic  
+- ✅ Efficient  
+- ✅ Clean & Well-Structured  
+- ✅ Optimized for Interviews  
+- ✅ Stored Category-Wise
 
-The goal of this repository is to provide high-quality reference solutions for coding interview preparation.
+The goal of this repository is to provide **high-quality, easy-to-understand reference solutions** for coding interview preparation.
 
-📂 Repository Structure
+---
+
+## 📂 Repository Structure
+
 📁 LeetCode-Top-Interview-150
+│
+├── 📄 README.md
+└── 📁 solutions
+├── array/
+├── binary_search/
+├── linked_list/
+├── dp/
+├── greedy/
+├── graphs/
+├── trees/
+└── ... (more categories)
 
- ┣ 📄 README.md
- 
- ┗ 📁 solutions
-     ┣ array/
-     ┣ binary_search/
-     ┣ linked_list/
-     ┣ dp/
-     ┣ greedy/
-     ┣ graphs/
-     ┣ trees/
-     ┗ ... etc.
-     ---    
-     ---
-     ## 🔗 Connect With Me
-   
+
+---
+
+## 🚀 What You’ll Find Here
+
+- Clean Python solutions with explanations  
+- Optimal time & space complexity  
+- Best-practice approaches used in FAANG interviews  
+- Organized folder structure for fast navigation  
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shriram-lahane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://instagram.com/shriram_7057" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="mailto:shriramlahane7057@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+⭐ **If you find this repository helpful, don’t forget to star it!**
