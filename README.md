@@ -1,10 +1,10 @@
-# LeetCode-Top-Interview-150-Master
-
 <p align="center">
   <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="220">
 </p>
 
 <p align="center">
+  <p align="center">
+<b># LeetCode-Top-Interview-150-Master</b>
   <b>🔥 150/150 Challenges Completed — Fully Accepted Python Solutions</b><br>
   Clean • Optimized • Interview-Ready
 </p>
